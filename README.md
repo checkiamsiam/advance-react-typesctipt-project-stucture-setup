@@ -9,3 +9,4 @@
 - #### set extends prettier on eslint config
 - #### configure prettierignore and rc file
 - #### add prettier command on package.json
+- #### set up pre commit hook with husky `npx mrm@2 lint-staged` from prettier docs.
